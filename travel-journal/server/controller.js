@@ -27,7 +27,7 @@ module.exports = {
             );
 
             insert into cities (name, rating, country_id) 
-            values ('New York City', 5, 187), ('Boston', 2, 187), ('Toronto', 5, 33), ('Los Angeles', 4, 187)
+            values ('New York City', 5, 187), ('Boston', 2, 187), ('Toronto', 5, 33), ('Los Angeles', 4, 187);
 
             insert into countries (name)
             values ('Afghanistan'),
